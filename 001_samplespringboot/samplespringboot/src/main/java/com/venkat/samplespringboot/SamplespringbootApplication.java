@@ -8,6 +8,7 @@ public class SamplespringbootApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SamplespringbootApplication.class, args);
+		System.out.println("venkat");
 	}
 
 }
