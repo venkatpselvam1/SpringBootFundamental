@@ -10,4 +10,8 @@ public class Student {
 
     @Column(name = "student_name")
     public String Name;
+
+    public void setName(String name) {
+        Name = name;
+    }
 }
