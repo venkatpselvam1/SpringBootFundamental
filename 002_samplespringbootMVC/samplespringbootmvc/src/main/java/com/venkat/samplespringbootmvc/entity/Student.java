@@ -14,4 +14,12 @@ public class Student {
     public void setName(String name) {
         Name = name;
     }
+
+    @Override
+    public String toString() {
+        return super.toString() + " - Student{" +
+                "Id=" + Id +
+                ", Name='" + Name + '\'' +
+                '}';
+    }
 }
