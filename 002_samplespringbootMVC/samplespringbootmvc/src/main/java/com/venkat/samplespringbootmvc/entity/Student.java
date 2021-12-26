@@ -1,4 +1,4 @@
-package com.venkat.samplespringboot.entity;
+package com.venkat.samplespringbootmvc.entity;
 import  javax.persistence.*;
 
 @Entity

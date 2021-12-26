@@ -1,7 +1,7 @@
-package com.venkat.samplespringboot;
+package com.venkat.samplespringbootmvc;
 
-import com.venkat.samplespringboot.entity.Student;
-import com.venkat.samplespringboot.repository.StudentRepository;
+import com.venkat.samplespringbootmvc.entity.Student;
+import com.venkat.samplespringbootmvc.repository.StudentRepository;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
